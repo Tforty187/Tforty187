@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Steve and I am a former IT technician
-- 👀 I’m interested in Programming, video games, cooking and traveling the country whenever I can.
-- 🌱 I’m currently learning the IBM i Series languages as well as other languages to help me succeed as a programmer.
-- 💞️ I’m looking to collaborate on mainly IBMi/RPG, but can assist or be assisted on any other projects.
-- 📫 I can be reach by email steve.conyers4@gmail.com
+- 👋 Hi, I’m Steven and I am a former IT technician with two yers of experience. I have an associates degree in software development and am currently an ERP Specialist.
+- 👀 I’m interested in continously learning and growing my programming skills with various languages. I love the IBM iSeries platform. In my free time I enjoy playing video games, cooking and traveling the country whenever I can.
+- 🌱 I’m currently an ERP Specialist, but looking to transition in to a software development role, where I can truely utilize my programming skills through my education.
+- 💞️ I’m looking to collaborate on mainly IBMi/RPG Free, but can assist or be assisted on any other projects. As one language is enough.
+- 📫 I can be reached by email at steve.conyers4@gmail.com
 
 <!---
 Tforty187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
